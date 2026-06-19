@@ -16,3 +16,9 @@ rev = "v4.31.0"
 
 [[lean_lib]]
 name = "ThurstonMaps"
+
+[[require]]
+name = "Paperproof"
+git = "https://github.com/Paper-Proof/paperproof.git"
+rev = "main"
+subDir = "lean"
